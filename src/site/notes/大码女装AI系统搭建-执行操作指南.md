@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/ai/","dg-note-properties":{}}
 ---
 
 # 大码女装 AI 系统搭建 — 执行操作指南
